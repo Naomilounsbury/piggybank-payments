@@ -16,12 +16,12 @@ This is an e-commerce backend that allows you to create, read, update and delete
   To install run npm i. after running npm i then you will need to run "npm run schema" in the command line to create the databases (you will have to put in your password). After creating the databases put "npm run seed" into the command line to seed the database. After you seed the database, you can then run "npm run start" to start the application.
 
   ## Screenshot
-  Here is a screenshot of it working.
+  Here is a screenshot of doing a post request for products.
 
-  ![screenshot](./images/trackyoursuitsscreenshot.png)
+  ![screenshot](./images/ecommercebackend.png)
 
   ## Video
-  [Here is the video](./images/Trackyoursuitsvid.webm)
+  [Here is the video](./images/ecommercebackend.webm)
 
 
   ## Questions
